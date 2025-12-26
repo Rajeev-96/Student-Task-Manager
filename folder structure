@@ -1,0 +1,14 @@
+student-task-manager/
+│
+├── data/
+│   └── tasks.json
+│
+├── routes/
+│   └── taskRoutes.js
+│
+├── controllers/
+│   └── taskController.js
+│
+├── app.js
+├── package.json
+└── README.md
