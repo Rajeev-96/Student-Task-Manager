@@ -1,0 +1,4 @@
+mkdir student-task-manager
+cd student-task-manager
+npm init -y
+npm install express
